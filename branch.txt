@@ -1,1 +1,1 @@
-Explain what a branch is, in your own words
+A branch is the name for a sequence of commits.
