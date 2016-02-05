@@ -1,1 +1,1 @@
-Explain what the "upstream" remote is usually used for, in your own words
+The upstream remote is the original repository that is cloned or forked from. You can send changes to the upstream remote using a pull request.
